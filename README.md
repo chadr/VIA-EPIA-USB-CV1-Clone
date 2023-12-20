@@ -1,2 +1,7 @@
 # VIA EPIA USB CV1 Clone
- Recreation of VIA USB 1.1 Daughterboard USB-CV1
+ Recreation of VIA EPIA USB 1.1 Daughterboard USB-CV1
+
+BOM
+MFG / Mouser
+5.5V 30A Varistor - V5.5MLA0603NH / 576-V5.5MLA0603NH
+USB 1.1 Bus IC - USBDF01W5 / 511-USBDF01W5
