@@ -19,11 +19,13 @@ This clone of the USB-CV1 provides all of the above features.
 **Item**|**Qty**|**MFG Part Num**|**Mouser Part Num**
 :-----:|:-----:|:-----:|:-----:
 5.5V 30A Varistor|1|V5.5MLA0603NH|576-V5.5MLA0603NH
+6V 2.6A Resettable Fuse|1|MINISMDC260F-2|650-MINISMDC260F-2
+Ferrite Bead|1|-|-
 USB 1.1 Bus IC|2|USBDF01W5|511-USBDF01W5
-Wurth 1000uF 10V|1|860020275015|710-860020275015
-Fuse|1|BK1/GMC-100-R|504-BK1-GMC-100-R
-Fuse Holder|1|0PTF0078P|576-0PTF0078P
-Fuse Clip|1|00BS0232P|576-00BS0232P
+Wurth 1000uF 10V Cap|1|860020275015|710-860020275015
+560K 1/8w Resistor|2|-|-
+2x4 2.0mm female pin header|1|-|-
+2x5 2.54mm male pin header|1|-|-
 
 ## PCB Info
 4 Layer
