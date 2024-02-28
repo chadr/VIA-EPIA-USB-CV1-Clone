@@ -40,3 +40,5 @@ Wurth 1000uF 10V Cap|1|860020275015|710-860020275015
 1.2mm thickness  
 32mm by 20mm  
 HASL is fine. Paying extra for ENIG will not improve anything in this application.  
+
+https://github.com/chadr/VIA-EPIA-USB-CV1-Clone/blob/main/img/comparison.JPG?raw=true
